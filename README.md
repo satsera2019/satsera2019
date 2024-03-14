@@ -29,12 +29,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
-    <img src="https://styled-components.com/logo.png" alt="Styled Components" width="40" height="40"/>
-  </a>
   <!-- Add Laravel icon and link -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
+  </a>
+  <!-- Add Vue.js icon and link -->
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
