@@ -29,6 +29,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <!-- Add jQuery icon and link -->
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
+  </a>
   <!-- Add Laravel icon and link -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
