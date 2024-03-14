@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satsera2019" alt="satsera2019" /></a> </p>
 
-- ✊ Frontend Web Developer at ATMS
-
 - ✊ FullStack Web Developer at TetroByte
 
 - 👨‍💻 Check out my <a href="https://github.com/satsera2019?tab=repositories"><b>repositories</b></a> for all of my projects
