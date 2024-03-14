@@ -54,7 +54,7 @@
   </a>
   <!-- Add SQLyog icon and link -->
   <a href="https://www.webyog.com/product/sqlyog" target="_blank" rel="noreferrer">
-    <img src="https://www.webyog.com/wp-content/uploads/2020/07/SQLyog-2020-Logo.png" alt="SQLyog" width="40" height="40"/>
+    <img src="https://cdn.download.it/gen/sqlyog-100x100.png" alt="SQLyog" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
