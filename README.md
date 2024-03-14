@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Saba Satseradze</h1>
 <h3 align="center">Full Stack Developer from Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tusho7&label=Profile%20views&color=3f5427&style=plastic" alt="Tusho7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satsera2019&label=Profile%20views&color=3f5427&style=plastic" alt="satsera2019" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tusho7" alt="Tusho7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satsera2019" alt="satsera2019" /></a> </p>
 
 - ✊ Frontend Web Developer at ATMS
 
 - ✊ FullStack Web Developer at TetroByte
 
-- 👨‍💻 Check out my <a href="https://github.com/Tusho7?tab=repositories"><b>repositories</b></a> for all of my projects
+- 👨‍💻 Check out my <a href="https://github.com/satsera2019?tab=repositories"><b>repositories</b></a> for all of my projects
 
-- 📫 How to reach me via email: <b>sandrotushurashvili7@gmail.com</b>
+- 📫 How to reach me via email: <b>saba.satseradze0@gmail.com</b>
 
 - 🔭 I’m currently working on Private Project
 
 <h2 align="center"> Contact with me: </h2>
  <p align="center">
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tusho7" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/saba-satseradze-865b99203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tusho7" height="30" width="40" /></a>
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tusho7" height="30" width="40" /></a> -->
+<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satsera2019" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/saba-satseradze-865b99203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satsera2019" height="30" width="40" /></a>
+<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satsera2019" height="30" width="40" /></a> -->
 </p>
 
 <h2 align="center"> Stacks and Tools: </h2>
@@ -80,19 +80,19 @@
 <h2 align="center"> Statistics: </h2>
 
 <p align="center">
-  <a href="https://github.com/Tusho7">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusho7&theme=radical&border=7F3FBF&background=0D1117" alt="Sandro Tushurashvili's GitHub streak"/>
+  <a href="https://github.com/satsera2019">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satsera2019&theme=radical&border=7F3FBF&background=0D1117" alt="Saba Satseradze's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Tusho7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusho7&theme=radical" alt="Sandro Tushurashvili's GitHub Contribution"/>
+  <a href="https://github.com/satsera2019">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satsera2019&theme=radical" alt="Saba Satseradze's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-  <a href="https://github.com/Tusho7"><img alt="Sandro Tushurashvili's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Tusho7&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Tusho7"><img alt="Sandro Tushurashvili's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Tusho7&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/satsera2019"><img alt="Saba Satseradze's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=satsera2019&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/satsera2019"><img alt="Saba Satseradze's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=satsera2019&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
   <br/>
 </a>
