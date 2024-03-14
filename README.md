@@ -50,7 +50,7 @@
   </a>
   <!-- Add Fork icon and link -->
   <a href="https://fork.dev/" target="_blank" rel="noreferrer">
-    <img src="https://fork.dev/img/logo.svg" alt="Fork" width="40" height="40"/>
+    <img src="https://fork.dev/images/logo.png" alt="Fork" width="40" height="40"/>
   </a>
   <!-- Add SQLyog icon and link -->
   <a href="https://www.webyog.com/product/sqlyog" target="_blank" rel="noreferrer">
